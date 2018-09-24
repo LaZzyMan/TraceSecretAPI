@@ -1,0 +1,54 @@
+2018-03-12 21:33:36,696 CRIT Supervisor running as root (no user in config file)
+2018-03-12 21:33:36,699 INFO daemonizing the supervisord process
+2018-03-12 21:33:36,699 INFO supervisord started with pid 9898
+2018-03-12 21:33:37,701 INFO spawned: 'TraceSecretAPI' with pid 9899
+2018-03-12 21:33:47,719 INFO success: TraceSecretAPI entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2018-03-13 16:46:36,909 CRIT Supervisor running as root (no user in config file)
+2018-03-13 16:46:36,912 INFO daemonizing the supervisord process
+2018-03-13 16:46:36,912 INFO supervisord started with pid 11365
+2018-03-13 16:46:37,915 INFO spawned: 'TraceSecretAPI' with pid 11366
+2018-03-13 16:46:47,932 INFO success: TraceSecretAPI entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2018-03-13 16:48:28,851 CRIT Supervisor running as root (no user in config file)
+2018-03-13 16:48:28,853 INFO daemonizing the supervisord process
+2018-03-13 16:48:28,854 INFO supervisord started with pid 11372
+2018-03-13 16:48:29,856 INFO spawned: 'TraceSecretAPI' with pid 11373
+2018-03-13 16:48:39,875 INFO success: TraceSecretAPI entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2018-03-19 09:36:37,125 CRIT Supervisor running as root (no user in config file)
+2018-03-19 09:36:37,127 INFO daemonizing the supervisord process
+2018-03-19 09:36:37,128 INFO supervisord started with pid 17916
+2018-03-19 09:36:38,129 INFO spawned: 'TraceSecretAPI' with pid 17917
+2018-03-19 09:36:48,145 INFO success: TraceSecretAPI entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2018-03-19 09:40:04,228 CRIT Supervisor running as root (no user in config file)
+2018-03-19 09:40:04,230 INFO daemonizing the supervisord process
+2018-03-19 09:40:04,231 INFO supervisord started with pid 18017
+2018-03-19 09:40:05,233 INFO spawned: 'TraceSecretAPI' with pid 18018
+2018-03-19 09:40:15,249 INFO success: TraceSecretAPI entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2018-04-27 20:28:49,504 CRIT Supervisor running as root (no user in config file)
+2018-04-27 20:28:49,506 INFO daemonizing the supervisord process
+2018-04-27 20:28:49,507 INFO supervisord started with pid 2909
+2018-04-27 20:28:50,510 INFO spawned: 'TraceSecretAPI' with pid 2910
+2018-04-27 20:29:00,525 INFO success: TraceSecretAPI entered RUNNING state, process has stayed up for > than 10 seconds (startsecs)
+2018-05-05 16:21:26,215 WARN received SIGHUP indicating restart request
+2018-05-05 16:21:26,336 INFO waiting for TraceSecretAPI to die
+2018-05-05 16:21:26,344 INFO stopped: TraceSecretAPI (terminated by SIGINT)
+2018-05-05 16:21:26,345 WARN received SIGTERM indicating exit request
+2018-05-05 16:21:26,346 WARN received SIGHUP indicating restart request
+2018-05-05 16:21:26,346 INFO waiting for TraceSecretAPI to die
+2018-05-05 16:21:26,245 WARN received SIGHUP indicating restart request
+2018-05-05 16:21:26,347 INFO waiting for TraceSecretAPI to die
+2018-05-05 16:21:26,283 WARN received SIGHUP indicating restart request
+2018-05-05 16:21:26,364 INFO waiting for TraceSecretAPI to die
+2018-05-05 16:21:26,302 WARN received SIGHUP indicating restart request
+2018-05-05 16:21:26,377 INFO waiting for TraceSecretAPI to die
+2018-05-05 16:21:26,380 INFO stopped: TraceSecretAPI (terminated by SIGINT)
+2018-05-05 16:21:26,380 WARN received SIGTERM indicating exit request
+2018-05-05 16:21:26,309 WARN received SIGHUP indicating restart request
+2018-05-05 16:21:26,387 INFO waiting for TraceSecretAPI to die
+2018-05-05 16:21:26,408 INFO stopped: TraceSecretAPI (terminated by SIGINT)
+2018-05-05 16:21:26,408 WARN received SIGTERM indicating exit request
+2018-05-05 16:21:26,415 INFO stopped: TraceSecretAPI (exit status 30)
+2018-05-05 16:21:26,415 WARN received SIGTERM indicating exit request
+2018-05-05 16:21:26,483 INFO stopped: TraceSecretAPI (terminated by SIGINT)
+2018-05-05 16:21:26,483 WARN received SIGTERM indicating exit request
+2018-05-05 16:21:26,969 INFO stopped: TraceSecretAPI (exit status 30)
+2018-05-05 16:21:26,973 WARN received SIGTERM indicating exit request
